@@ -1,3 +1,6 @@
 [submodule "projectA"]
 	path = projectA
 	url = https://github.com/dkoon/projectA.git
+[submodule "projectB"]
+	path = projectB
+	url = https://github.com/dkoon/projectB.git
