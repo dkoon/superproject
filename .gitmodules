@@ -4,3 +4,6 @@
 [submodule "projectB"]
 	path = projectB
 	url = https://github.com/dkoon/projectB.git
+[submodule "projectC"]
+	path = projectC
+	url = https://github.com/dkoon/projectC.git
