@@ -1,0 +1,3 @@
+[submodule "projectA"]
+	path = projectA
+	url = https://github.com/dkoon/projectA.git
